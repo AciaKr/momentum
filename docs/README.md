@@ -15,7 +15,7 @@
 - генерирование html через js;
 - работа с асинхронными запросами.
 
-![screenshot](../images/momentum.png)
+![screenshot](https://github.com/rolling-scopes-school/tasks/raw/master/tasks/images/momentum.png)
 
 - [github-pages](https://aciakr.github.io/momentum/)
 
