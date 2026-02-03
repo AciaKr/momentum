@@ -15,9 +15,10 @@
 - генерирование html через js;
 - работа с асинхронными запросами.
 
-![screenshot](../images/momentum.png)
+<img alt="image" src="https://github.com/user-attachments/assets/08135f62-343d-41c5-a8cf-14c2628f1c29" />
 
-- [github-pages](https://aciakr.github.io/momentum/)
+
+[проект на github-pages](https://aciakr.github.io/momentum/)
 
 
 #### Структура приложения
